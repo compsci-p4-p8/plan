@@ -1,11 +1,14 @@
 # todolist-plan
 the plan for the todo list app
 
-Technologies:
+Ideal Technologies:
 - SQLite
 - Python
 - Uv 
 - Flask
+
+Alternete Technologies 1:
+- Django
 
 
 <br>
