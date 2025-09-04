@@ -9,8 +9,16 @@ Ideal Technologies:
 
 Alternete Technologies 1:
 - Django
+- Python
+- SQ Lite
+- UV
 
-
+Alternete Technologies 2:
+- HTML
+- CSS
+- JavaScript
+- LocalStorage API
+- GitHub 
 <br>
 
 - - -
