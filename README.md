@@ -8,7 +8,7 @@ Ideal Technologies:
 - Flask
 
 Alternete Technologies 1:
-- Django
+- Django 
 - Python
 - SQ Lite
 - UV
