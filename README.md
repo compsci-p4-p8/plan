@@ -24,9 +24,5 @@ Alternete Technologies 2:
 - - -
 
 `
-uv init
-`
-
-`
 uv run [main file]
 `
