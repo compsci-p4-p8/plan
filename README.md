@@ -31,5 +31,16 @@ uv run [main file]
 =======
 - - -
 
-**What if we did an app that has all sorts of school tools. like what if it had image converters, backround removers, and any other little web thing we tend to use in school? (including a todo list obv)**
->>>>>>> 21fdbaeb1707f80ab30e63c4071aa7c7ee30d300
+To-do list (core)
+
+Image converter
+
+PDF to image
+
+Background remover 
+
+Word counter
+
+Unit converter (length, weight, temp, currency)
+
+Flashcard/quiz generator (maybe if we still have time)
