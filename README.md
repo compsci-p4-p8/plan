@@ -1,5 +1,5 @@
-# todolist-plan
-the plan for the todo list app
+# plan
+the plan for the school app
 
 Ideal Technologies:
 - SQLite
@@ -21,15 +21,7 @@ Alternete Technologies 2:
 - GitHub 
 <br>
 
-- - -
-
-`
-uv run [main file]
-`
-<<<<<<< HEAD
-
-=======
-- - -
+---
 
 To-do list (core)
 
@@ -42,3 +34,5 @@ Word counter
 Unit converter (length, weight, temp, currency)
 
 Flashcard/quiz generator (maybe if we still have time)
+
+---
