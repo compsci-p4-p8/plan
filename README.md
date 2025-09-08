@@ -26,4 +26,10 @@ Alternete Technologies 2:
 `
 uv run [main file]
 `
+<<<<<<< HEAD
 
+=======
+- - -
+
+**What if we did an app that has all sorts of school tools. like what if it had image converters, backround removers, and any other little web thing we tend to use in school? (including a todo list obv)**
+>>>>>>> 21fdbaeb1707f80ab30e63c4071aa7c7ee30d300
