@@ -37,4 +37,4 @@ Flashcard/quiz generator (maybe if we still have time)
 
 ---
 
-<img>image.png</img>
+![pic](image.png)
