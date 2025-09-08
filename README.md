@@ -35,8 +35,6 @@ To-do list (core)
 
 Image converter
 
-PDF to image
-
 Background remover 
 
 Word counter
