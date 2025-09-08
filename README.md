@@ -26,3 +26,4 @@ Alternete Technologies 2:
 `
 uv run [main file]
 `
+
