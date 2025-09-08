@@ -28,4 +28,4 @@ uv run [main file]
 `
 - - -
 
-**What if we did an app that has all sorts of school tools. like what if it had image converters backround removers and any other little web thing we tend to use in school?**
+**What if we did an app that has all sorts of school tools. like what if it had image converters, backround removers, and any other little web thing we tend to use in school? (including a todo list obv)**
