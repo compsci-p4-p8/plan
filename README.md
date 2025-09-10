@@ -1,11 +1,13 @@
 # plan
 the plan for the school app
 
-Ideal Technologies:
-- SQLite
-- Python
-- Uv 
-- Flask
+Ideal Technologies
+- Next.js (React)
+- Tailwind CSS
+- Supabase for db + auth
+- Host on vercel or cloudflare pages
+
+This one is the best because we dont have to setup auth or manage the db and it allows us to focus on just the site. its also the best for online tools like this.
 
 Alternete Technologies 1:
 - Django 
@@ -19,6 +21,12 @@ Alternete Technologies 2:
 - JavaScript
 - LocalStorage API
 - GitHub 
+
+Alternete Technologies 3:
+- SQLite
+- Python
+- Uv 
+- Flask
 <br>
 
 ---
