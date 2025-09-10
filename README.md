@@ -9,6 +9,9 @@ Ideal Technologies
 
 This one is the best because we dont have to setup auth or manage the db and it allows us to focus on just the site. its also the best for online tools like this.
 
+For learning i would recomend https://www.codecademy.com/learn/paths/learn-how-to-build-websites
+and once done with that do: https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/intro
+
 Alternete Technologies 1:
 - Django 
 - Python
