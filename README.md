@@ -37,4 +37,14 @@ Flashcard/quiz generator (maybe if we still have time)
 
 ---
 
+Noah - Backend coding
+
+Jakai - frontend coding
+
+Cody - web design 
+
+Langston - frontend coding
+
+---
+
 ![pic](image.png)
